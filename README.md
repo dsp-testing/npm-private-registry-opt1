@@ -1,1 +1,1 @@
-`.npmrc` file present but `replaces_base:true` not set
+With lock file test
